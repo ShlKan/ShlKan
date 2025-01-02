@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning operating systems.
 - 👯 I’m looking to collaborate on compiler code generation.
 - 💬 Ask me about my projects,
-- 📫 How to reach me: kanshuanglong@outlook.com.
+- 📫 How to reach me: kanshuanglong@outlook.com or shuanglongkan@gmail.com
 
 
